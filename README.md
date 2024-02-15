@@ -6,7 +6,7 @@ I took part in a project focused on financial and accounting management. I playe
 
 Contents
 
-Caso-Teta.pdf: The PDF file containing the original project delivery (in italian).
+Caso-Teta.pdf: The PDF file containing the original project delivery (in italian).  
 Accountability-and-Balance-Teta-case.xlsx: An Excel spreadsheet including the project development.
 
 
