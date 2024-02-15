@@ -1,9 +1,13 @@
-Data Enthusiast 🚀 
+This repository contains documentation related to the financial and accounting management project in which I participated.
 
-Hey there! I am Simone, passionately dedicated to making a positive impact through the practical application of data-driven solutions 👋
+Project Description
 
-I think that each insight is a potential game-changer, propelling me forward in my quest for knowledge. As a devoted Data Science student, I delve into the intricacies of machine learning algorithms, unraveling the compelling stories hidden within datasets 🔍 
+I took part in a project focused on financial and accounting management. I played an active role in planning accounts, drafting closing entries, and preparing balance sheets and income statements, following international standards IAS/IFRS. Additionally, I tackled the analysis and practical application of operations such as financial leasing, valuation of work in progress, and inventory valuation in accordance with international standards. This experience has provided me with a solid understanding of global accounting and financial practices, preparing me to tackle similar challenges in my future career.
 
-With a solid foundation in statistical analysis and proficiency in programming languages like Python, R, and SQL, coupled with an unwavering commitment to continuous learning, I approach each challenge as an opportunity to enhance my skills. 📚 
+Contents
 
-Excited about the journey ahead and the countless possibilities it holds, I am ready to contribute to the ever-evolving field of Data Science 💡
+Caso-Teta.pdf: The PDF file containing the original project delivery (in italian).
+Accountability-and-Balance-Teta-case.xlsx: An Excel spreadsheet including the project development.
+
+
+Feel free to explore the documentation and data provided. If you have any questions or need clarification, don't hesitate to contact me.
